@@ -1,0 +1,9 @@
+[run]
+omit = 
+  venv/*
+  */test_*.py
+
+[report]
+omit = 
+  venv/*
+  */test_*.py
